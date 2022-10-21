@@ -38,7 +38,9 @@ Now, we will move towards the building model so let's start step by step.
 
 
 
-# Pickle5: used for deploying a machine learning model. you can download it with the below command.
+# Pickle5: 
+
+used for deploying a machine learning model. you can download it with the below command.
 
 pip install pickle5
 
