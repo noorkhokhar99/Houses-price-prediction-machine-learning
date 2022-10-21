@@ -46,6 +46,10 @@ used for deploying a machine learning model. you can download it with the below 
 pip install pickle5
 
 
+### Visualization
+
+<img src="https://github.com/noorkhokhar99/Houses-price-prediction-machine-learning/blob/main/download.png">
+
 
 
 
